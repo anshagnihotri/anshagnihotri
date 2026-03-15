@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on custom ROM development for Samsung Galaxy A04E & building my freelance design/dev brand<br>👯 I'm looking to collaborate on Android device trees, web development projects<br>🌱 I'm currently learning Android ROM internals, linux & content creation for developers<br>💬 Ask me about web design, React, mobile app UI, or getting started with custom Android ROMs<br>⚡ Fun fact I build websites by day and fix bootloops by night 🛠️
+🔭 I'm currently working on custom rom development for Oneplus Nord Ce 3 Lite, Samsung Galaxy A04E & building my freelance design/dev brand<br>👯 I'm looking to collaborate on Android device trees, web development projects<br>🌱 I'm currently learning Android ROM internals, linux & content creation for developers<br>💬 Ask me about web design, React, mobile app UI, or getting started with custom Android ROMs<br>⚡ Fun fact I build websites by day and fix bootloops by night 🛠️
 
 
 ## 🌐 Socials:
